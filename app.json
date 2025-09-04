@@ -15,7 +15,7 @@
     },
     "BOT_TOKEN": {
       "description": "Your Telegram Bot Token",
-      "value": "8308115157:AAEasuVyyfhlzA-bZvFVyc0tO-ZJ5rPcFI0",
+      "value": "8308115157:AAE7zwirqDe-zHpdAHEtl2S-FR8OCAznhws",
       "required": true
     },
     "BOT_USERNAME": {
