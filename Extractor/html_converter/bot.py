@@ -795,21 +795,21 @@ def generate_html(file_name, videos, pdfs, others):
     <div class="container-fluid py-5 text-center">
         <h1 class="brand-title mb-4">
 <a href="https://t.me/zhonsnow" style="text-decoration: none; color: inherit;">
-  <i class="fas fa-bolt"></i> 𓍯𝙎𝙪𝙟𝙖𝙡⚝ <i class="fas fa-bolt"></i>
+  <i class="fas fa-bolt"></i> —͟͞͞𝙎𝙩𝙪𝙙𝙮𝙑𝙚𝙧𝙨𝙚 <i class="fas fa-bolt"></i>
 </a>
 
                 </h1>
         <h2 class="header-title mb-4">{file_name_without_extension}</h2>
         <p class="lead">
-<a href="https://t.me/zhonsnow" style="text-decoration: none; color: inherit;">
+<a href="https://t.me/StudyVerse_Network_SV" style="text-decoration: none; color: inherit;">
   <span class="badge bg-primary me-2">
-    <i class="fas fa-robot"></i> Join @zhonsnowchatbbot
+    <i class="fas fa-robot"></i> Join 𝙎𝙩𝙪𝙙𝙮𝙑𝙚𝙧𝙨𝙚
   </span>
 </a>
 
             <a href="http://t.me/GodxBOts" class="text-decoration-none">
                 <span class="badge bg-warning">
-                    <i class="fas fa-bolt"></i>𓍯𝙎𝙪𝙟𝙖𝙡⚝ 
+                    <i class="fas fa-bolt"></i>𓍯𝙈𝙖𝙙𝙝𝙖𝙫⚝ 
                 </span>
             </a>
         </p>
@@ -1218,7 +1218,7 @@ async def handle_txt2html(client: Client, message: Message):
         
         # Save HTML file with @GodxBots suffix
         base_name = os.path.splitext(file_name)[0]
-        html_file_name = f"{base_name}_@zhonsnowchatbbot.html"
+        html_file_name = f"{base_name}_@StudyVerse_Network_SV.html"
         html_file_path = os.path.join(os.path.dirname(file_path), html_file_name)
         
         with open(html_file_path, "w", encoding='utf-8') as f:
