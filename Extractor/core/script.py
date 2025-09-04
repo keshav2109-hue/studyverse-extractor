@@ -9,7 +9,7 @@ START_TXT = """
 
 **<blockquote>ɪ'ᴍ ᴀᴅᴇᴘᴛ ᴀᴛ ᴇxᴛʀᴀᴄᴛɪɴɢ ᴏɴʟɪɴᴇ ᴄᴏᴜʀsᴇs ᴡɪᴛʜ ᴄᴜᴛᴛɪɴɢ-ᴇᴅɢᴇ ᴛᴇᴄʜɴᴏʟᴏɢʏ. ɪ'ᴠᴇ ᴍᴀɴᴀɢᴇᴅ ᴛᴏ ɢᴀᴛʜᴇʀ ʟɪɴᴋs ғᴏʀ ᴀʟᴍᴏsᴛ ᴀʟʟ ᴀᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴜʀsᴇs, ᴍᴀᴋɪɴɢ ᴛʜᴇ ᴘʀᴏᴄᴇss ᴇғғᴏʀᴛʟᴇss ᴀɴᴅ ᴇғғɪᴄɪᴇɴᴛ.</blockquote>**
 
-**<blockquote>🌿 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href="https://t.me/zhonsnowchatbbot">Aᴅᴍɪɴ 🫠</a></blockquote>**
+**<blockquote>🌿 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href="https://t.me/Madhav_IzPro">Aᴅᴍɪɴ 🫠</a></blockquote>**
 """
 
 FORCE_MSG = """
@@ -17,7 +17,7 @@ FORCE_MSG = """
 
 **<blockquote>ᴀᴄᴄᴏʀᴅɪɴɢ ᴛᴏ ᴍʏ ᴅᴀᴛᴀʙᴀsᴇ ʏᴏᴜ'ᴠᴇ ɴᴏᴛ ᴊᴏɪɴᴇᴅ ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ ʏᴇᴛ, ɪғ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ᴜsᴇ ᴍᴇ ᴛʜᴇɴ ᴊᴏɪɴ ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ ᴀɴᴅ sᴛᴀʀᴛ ᴍᴇ ᴀɢᴀɪɴ !</blockquote>**
 
-**<blockquote>🌿 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href="https://t.me/zhonsnowchatbbot">Aᴅᴍɪɴ 🫠</a></blockquote>**
+**<blockquote>🌿 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href="https://t.me/Madhav_IzPro">Aᴅᴍɪɴ 🫠</a></blockquote>**
 """
 
 MODES_TXT = """
