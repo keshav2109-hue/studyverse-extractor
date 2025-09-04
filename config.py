@@ -16,7 +16,7 @@ BOT_TEXT = "UG Extractor"
 OWNER_ID = int(os.environ.get("OWNER_ID", "7899819345"))
 # ------------------------------------------------
 # //LOG CHANNEL ID 
-CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002388003874"))
+CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1003037624212"))
 
 # //FORCE_CHANNEL_ID
 CHANNEL_ID2 = int(os.environ.get("CHANNEL_ID2", "-1002735715411")) 
