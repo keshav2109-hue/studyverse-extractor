@@ -8,7 +8,7 @@ API_ID = int(os.environ.get("API_ID", "25149550"))
 # ------------------------------------------------
 API_HASH = os.environ.get("API_HASH","67b06e7a112cb9b9a5365c5f4fce2495")
 # ------------------------------------------------
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "8308115157:AAE7zwirqDe-zHpdAHEtl2S-FR8OCAznhws")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
 # ------------------------------------------------
 BOT_USERNAME = os.environ.get("BOT_USERNAME", "studyverse_extractor_bot")
 BOT_TEXT = "UG Extractor"
