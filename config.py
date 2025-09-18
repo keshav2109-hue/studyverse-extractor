@@ -11,19 +11,19 @@ API_HASH = os.environ.get("API_HASH","67b06e7a112cb9b9a5365c5f4fce2495")
 BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
 # ------------------------------------------------
 BOT_USERNAME = os.environ.get("BOT_USERNAME", "studyverse_extractor_bot")
-BOT_TEXT = "UG Extractor"
+BOT_TEXT = "StudyVerse Extractor"
 # ------------------------------------------------
 OWNER_ID = int(os.environ.get("OWNER_ID", "7899819345"))
 # ------------------------------------------------
 # //LOG CHANNEL ID 
-CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1003037624212"))
+CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002921842078"))
 
 # //FORCE_CHANNEL_ID
 CHANNEL_ID2 = int(os.environ.get("CHANNEL_ID2", "-1002735715411")) 
 # ------------------------------------------------
 MONGO_URL = os.environ.get("MONGO_URL", "mongodb+srv://ankush23:JYzSGlbjpFezDSWH@cluster0.ulzzd1m.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 # -----------------------------------------------
-PREMIUM_LOGS = int(os.environ.get("PREMIUM_LOGS", "-1003037624212"))
+PREMIUM_LOGS = int(os.environ.get("PREMIUM_LOGS", "-1002921842078"))
 # -----------------------------------------------
 join = '<a href="https://t.me/StudyVerse_Network_SV">✳️ Join Channel</a>'
 # -----------------------------------------------
@@ -47,6 +47,6 @@ THUMB_URL = os.environ.get("THUMB_URL", "https://cdna.artstation.com/p/assets/im
 # SUDO_USERS = list(map(int, getenv("SUDO_USERS", "7899819345").split()))
 # CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002388003874"))
 # MONGO_URL = os.environ.get("MONGO_URL", "mongodb+srv://wadiro6523:08AwfhhKRdQaS1i6@cluster0.krzxuop.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
-# PREMIUM_LOGS = int(os.environ.get("PREMIUM_LOGS", "-1003037624212"))
+# PREMIUM_LOGS = int(os.environ.get("PREMIUM_LOGS", "-1002921842078"))
 # THUMB_URL = os.environ.get("THUMB_URL", "https://cdna.artstation.com/p/assets/images/images/053/465/272/large/rehan-moazzam-studyverse.jpg?1662288112")
 
