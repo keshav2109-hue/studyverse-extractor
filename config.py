@@ -45,7 +45,7 @@ THUMB_URL = os.environ.get("THUMB_URL", "https://cdna.artstation.com/p/assets/im
 # BOT_USERNAME = os.environ.get("BOT_USERNAME", "studyverse_extractor_bot")
 # OWNER_ID = int(os.environ.get("OWNER_ID", "7899819345"))
 # SUDO_USERS = list(map(int, getenv("SUDO_USERS", "7899819345").split()))
-# CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002388003874"))
+# CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002921842078"))
 # MONGO_URL = os.environ.get("MONGO_URL", "mongodb+srv://wadiro6523:08AwfhhKRdQaS1i6@cluster0.krzxuop.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 # PREMIUM_LOGS = int(os.environ.get("PREMIUM_LOGS", "-1002921842078"))
 # THUMB_URL = os.environ.get("THUMB_URL", "https://cdna.artstation.com/p/assets/images/images/053/465/272/large/rehan-moazzam-studyverse.jpg?1662288112")
