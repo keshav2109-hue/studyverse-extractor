@@ -1,4 +1,4 @@
-zhonsnowchatbbot config
+Madhav_IzPro config
 from config import ADMIN_BOT_USERNAME
 
 
