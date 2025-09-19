@@ -114,7 +114,7 @@ button1 = [
                     InlineKeyboardButton("🧿 Rᴀɴᴋᴇʀs Gᴜʀᴜᴋᴜʟ", callback_data="rgvikramjeet_")
                 ],
                 [
-                    InlineKeyboardButton("😎 𝚂𝚑𝚎𝚛𝚠𝚒𝚕𝚕" callbaack_data="careerwill_"),
+                    InlineKeyboardButton("😎 𝚂𝚑𝚎𝚛𝚠𝚒𝚕𝚕" callback_data="career_will_"),
                     #InlineKeyboardButton("🧿 Gᴜʀᴜᴋᴜʟ Gᴜʀᴜᴋᴜʟ", callback_data="rgvikramjeet_")
                 ],
                 [
