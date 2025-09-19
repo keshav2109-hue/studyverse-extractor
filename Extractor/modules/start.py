@@ -80,8 +80,7 @@ modes_button = [[
 
 custom_button = [[
                   InlineKeyboardButton("🌸 Pᴡ 🌸", callback_data="pwwp"),
-                  InlineKeyboardButton("❤️ Aᴘᴘx ❤️", callback_data="appxwp"),
-                ],[
+                  InlineKeyboardButton("❤️ Aᴘᴘx ❤️", callback_data="appxSherwillllll           ],[
                   InlineKeyboardButton("🎯 CʟᴀssPʟᴜs 🎯", callback_data="cpwp")
                   #InlineKeyboardButton("🎓 CDS Jᴏᴜʀɴᴇʏ 🎓", callback_data="cds_journey_free")
                 ],[
@@ -115,7 +114,7 @@ button1 = [
                     InlineKeyboardButton("🧿 Rᴀɴᴋᴇʀs Gᴜʀᴜᴋᴜʟ", callback_data="rgvikramjeet_")
                 ],
                 [
-                    InlineKeyboardButton("⚠️ Sherwill, callback_data="careerwill_"),
+                    InlineKeyboardButton("😎 𝚂𝚑𝚎𝚛𝚠𝚒𝚕𝚕" callbaack_data="careerwill_"),
                     #InlineKeyboardButton("🧿 Gᴜʀᴜᴋᴜʟ Gᴜʀᴜᴋᴜʟ", callback_data="rgvikramjeet_")
                 ],
                 [
